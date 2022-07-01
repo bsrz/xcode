@@ -3,7 +3,7 @@
 import ComposableArchitecture
 
 enum ___FILEBASENAMEASIDENTIFIER___ {
-    enum State: Equatable {
+    struct State: Equatable {
     }
 
     enum Action {
