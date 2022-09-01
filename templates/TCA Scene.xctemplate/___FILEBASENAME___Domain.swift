@@ -6,7 +6,7 @@ enum ___FILEBASENAMEASIDENTIFIER___ {
     struct State: Equatable {
     }
 
-    enum Action {
+    enum Action: Equatable {
     }
 
     struct Environment {
